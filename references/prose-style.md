@@ -11,7 +11,6 @@ A loose draft cleaned up afterwards oscillates between too terse and too long.
 
 - One statement per sentence. A claim, a caveat, and a number are three sentences.
 - Lead with the subject. Plain subject, verb, object. No inversion, no fronted clauses.
-- Prefer the active voice with a named actor.
 - Promote a trailing relative clause into its own sentence.
 - Repeat the noun instead of using a pronoun when the reference could be ambiguous.
 - Never drop a verb to save a word.
