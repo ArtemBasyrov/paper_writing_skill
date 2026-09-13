@@ -21,7 +21,7 @@ It sees only the inputs listed below and returns findings in the fixed format.
 
 Checks are run in this order, and a failure at an earlier step outranks a later one.
 
-1. **Fidelity.** The draft delivers the brief's message, and only that message. Every sentence serves it. A sentence that serves no listed prerequisite and does not carry the message is cut.
+1. **Fidelity.** The draft delivers the brief's message, and only that message. Every sentence serves it. A sentence is flagged when it does not carry the message, supplies no listed prerequisite, and serves neither the brief's position field nor its objection field.
 2. **Self-containment.** The draft stands without the code, the notes, or the plan. No script name, file path, function name, or software step appears. A measurement carries its physical configuration, not its tool.
 3. **Prerequisites.** Every prerequisite in the brief has its source in the text before this unit, or in the reader model. The draft does not rely on anything not in the brief.
 4. **Composition.** For a parent unit, the ordered child messages reproduce the parent message with nothing missing and nothing extra. For any unit, its message serves the message of every ancestor up to the paper's claim.

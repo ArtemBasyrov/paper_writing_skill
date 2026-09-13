@@ -37,7 +37,7 @@ It does not narrate software operation.
 
 ## What to cut
 
-- Meta-narration. Any sentence that describes the structure of the argument, justifies a presentational choice, or announces that the next sentence is coming.
+- Meta-narration. Any sentence that comments on the presentation: it justifies a presentational choice, describes how the argument is organized, or announces that the next sentence is coming. A sentence that connects to what the previous unit left open, hands the next unit what it needs, or defers an objection to a named unit is not meta-narration. It serves the brief's position or objection field and stays.
 - The writer's own error correction. Text that argues against a claim the paper does not make serves the writer. Correct the claim and delete the scaffolding.
 - Superseded derivations. Cut them rather than leaving them next to the replacement.
 - Rhetorical questions.
